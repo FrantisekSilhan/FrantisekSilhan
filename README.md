@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8nhOgfB21SCzCMr-7jLWRQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/SilhanFrantisek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFrantisekSilhan&screen_name=SilhanFrantisek)
 
-## I'm Student!!
+## I'm a Student!!
 
 - 🌱 I’m currently learning c++ and js
 - 🥅 2022 Goals: Make simple game in c++
