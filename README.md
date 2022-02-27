@@ -8,14 +8,14 @@
 [![website](./img/facebook-light.png)](https://facebook.com/profile.php?id=100078417112559#gh-light-mode-only)
 [![website](./img/facebook-dark.png)](https://facebook.com/profile.php?id=100078417112559#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-dark-mode-only)
+[![website](./img/youtube-light.png)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-light-mode-only)
+[![website](./img/youtube-dark.png)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/SilhanFrantisek#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/SilhanFrantisek#gh-dark-mode-only)
+[![website](./img/twitter-light.png)](https://twitter.com/SilhanFrantisek#gh-light-mode-only)
+[![website](./img/twitter-dark.png)](https://twitter.com/SilhanFrantisek#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/frantiseksilhan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/frantiseksilhan#gh-dark-mode-only)
+[![website](./img/instagram-light.png)](https://instagram.com/frantiseksilhan#gh-light-mode-only)
+[![website](./img/instagram-dark.png)](https://instagram.com/frantiseksilhan#gh-dark-mode-only)
 
 <br />
 <br />
