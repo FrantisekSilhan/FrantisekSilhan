@@ -5,8 +5,8 @@
 
 ### Connect with me:
 
-[![website](./img/facebook-dark.svg)](https://facebook.com/profile.php?id=100078417112559#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://facebook.com/profile.php?id=100078417112559#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://facebook.com/profile.php?id=100078417112559#gh-light-mode-only)
+[![website](./img/facebook-light.svg)](https://facebook.com/profile.php?id=100078417112559#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/channel/UC8nhOgfB21SCzCMr-7jLWRQ#gh-dark-mode-only)
