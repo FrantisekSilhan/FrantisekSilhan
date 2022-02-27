@@ -26,6 +26,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/FrantisekSilhan/robot/issues/1) in [FrantisekSilhan/robot](https://github.com/FrantisekSilhan/robot)
 <!--END_SECTION:activity-->
 
 </details>
