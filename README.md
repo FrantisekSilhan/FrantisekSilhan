@@ -31,7 +31,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/FrantisekSilhan/robot/issues/1) in [FrantisekSilhan/robot](https://github.com/FrantisekSilhan/robot)
+1. 🎉 Merged PR [#2](https://github.com/pslib-cz/2021-p1a-alg-pxt-custom-project-FrantisekSilhan/pull/2) in [pslib-cz/2021-p1a-alg-pxt-custom-project-FrantisekSilhan](https://github.com/pslib-cz/2021-p1a-alg-pxt-custom-project-FrantisekSilhan)
 <!--END_SECTION:activity-->
 
 </details>
