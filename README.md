@@ -30,7 +30,7 @@ I'm a **19-year-old full-stack developer** based in the **Czech Republic**.
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=slhn&theme=midnight-purple)](https://wakatime.com/@slhn)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frantiseksilhan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frantiseksilhan&layout=compact&theme=midnight-purple)
 
 ---
 
